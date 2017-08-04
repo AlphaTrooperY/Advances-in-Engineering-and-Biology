@@ -1,0 +1,16 @@
+[
+{
+  "modid": "aam",
+  "name": "Advances in Engineering and Biology",
+  "description": "Explore Engineering and Biology using this mod. Completely Science fantasy.",
+  "version": "0.1-alpha",
+  "mcversion": "1.11.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["AlphaTrooperY"],
+  "credits": "The Forge Team for making the backbone of Minecraft Modding.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
